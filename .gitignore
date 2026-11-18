@@ -1,0 +1,16 @@
+.env
+__pycache__/
+*/__pycache__/
+*/*/__pycache__/
+*.pyc
+venv/
+.venv/
+uploads/*
+!uploads/.gitkeep
+reports/*
+!reports/.gitkeep
+.pytest_cache/
+*.db
+*.sqlite3
+.DS_Store
+Thumbs.db
